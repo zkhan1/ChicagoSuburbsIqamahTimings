@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\libs\jxl.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7faf62e0697f7a88954622dfe8c8de33ed142ac7">
+        <dex dex="D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\pre-dexed\debug\jxl-a669431472df29d038796508fc0950e06ae0c20b.jar" />
+    </item>
+    <item
+        jar="D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\libs\poi-3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5d5e41354e88322e4bc590b31f3d2d1d52b3e6ac">
+        <dex dex="D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\pre-dexed\debug\poi-3.9-4b4cb57f2548c6f76cb17ed6366717e4e89ce23c.jar" />
+    </item>
+    <item
+        jar="D:\android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ccf1976f2ed10671c81cbe19f136351b0d5865ab.jar" />
+    </item>
+
+</items>

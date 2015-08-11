@@ -1,0 +1,4 @@
+D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\classes\debug
+D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-ccf1976f2ed10671c81cbe19f136351b0d5865ab.jar
+D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\pre-dexed\debug\jxl-a669431472df29d038796508fc0950e06ae0c20b.jar
+D:\android\android_studio_workspace\ChicagoSuburbsIqamahTimings\app\build\intermediates\pre-dexed\debug\poi-3.9-4b4cb57f2548c6f76cb17ed6366717e4e89ce23c.jar

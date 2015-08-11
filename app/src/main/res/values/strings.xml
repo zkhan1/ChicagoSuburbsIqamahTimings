@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chicago Suburbs </string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="prayertimings">Iqamah/Congregation Timings</string>
+    <string name="isns">ISNS Rolling Meadows</string>
+    <string name="alhuda">Al-Huda Schaumburg</string>
+    <string name="today">TODAY \u0020 IS</string>
+    <string name="fajr">Fajr</string>
+    <string name="dhur">Dhur</string>
+    <string name="asr">Asr</string>
+    <string name="maghrib">Maghrib</string>
+    <string name="isha">Isha</string>
+    <string name="am">a.m.</string>
+    <string name="pm">p.m.</string>
+    <string name="iccd">ICC Desplaines</string>
+    <string name="ifv">Islamic Foundation Villa Park</string>
+    <string name="msi">MSI Glendale Heights</string>
+    <string name="icn">ICN Naperville</string>
+    <string name="iccp">ICC Peterson Chicago</string>
+    <string name="ifn">IFN Libertyville</string>
+    <string name="mcc">MCC Chicago</string>
+    <string name="mec">MEC Morton Grove</string>
+    <string name="emptyText"/>
+    <string name="sunset">Sunset</string>
+    <string name="isnsaddress">3950 Industrial Drive \n Rolling Meadows, IL 60008</string>
+    
+    <string name="visitisnswebsite"><u><b>Visit Website</b></u></string>
+           
+    <string name="isnsphone">847-253-6400</string>
+    <string name="alhudaaddress">1081 Irving Park Road \n Schaumburg, IL 60193</string>
+    <string name="alhudaphone">630-529-1786</string>
+    <string name="visitwebsite"><u><b>Visit Website</b></u></string>
+    <string name="iccdesplainesphone">847-824-1100</string>
+    <string name="iccdesplainesaddress">480 Potter Road \n Des Plaines, IL 60016</string>
+    <string name="ifsvillaparkphone">630-941-8800</string>
+    <string name="ifsvillaparkaddress">300 W High Ridge Road \n Villa Park, IL 60181</string>
+    <string name="msiglendaleheightsphone">630-653-7872</string>
+    <string name="icnnapervilleaddress">ICN-Al Hidayah @ 450 Olesen Drive \n  ICN-Al Hilal @ 2844 W. Ogden Ave. \n Naperville, IL 60540</string>
+    <string name="icnnapervillephone">630-426-3335</string>
+    <string name="msiglendaleheightsaddress">1785 Bloomingdale Road \n Glendale Heights, IL 60139</string>
+    <string name="ifnlibertyvilleaddress">1751 S. OPlaine Road \n Waukegan, IL 60085</string>
+    <string name="ifnlibertyvillephone">847-406-3730</string>
+    <string name="iccpaddress">5933 N. Lincoln Avenue \n Chicago, IL 60659</string>
+    <string name="iccpphone">773-989-9330</string>
+    <string name="mccchicagoaddress">4380 N. Elston Avenue \n Chicago, IL 60641</string>
+    <string name="mccchicagophone">773-725-9047</string>
+    <string name="mecchicagophone">847-470-8801</string>
+    <string name="mecchicagoaddress">8601 N. Menard Avenue \n Morton Grove, IL 60053</string>
+    <string name="iieephone">847-695-4685</string>
+    <string name="iieeaddress">1280 Bluff City Blvd. \n Elgin, IL 60120</string>
+    <string name="isnsiqamahtimings">ISNS Iqamah/Congregation Timings</string>
+    <string name="alhudaiqamahtimings">Al-Huda Iqamah/Congregation Timings</string>
+    <string name="iccdesplainesiqamahtimings">ICC Des Plaines Iqamah/Congregation Timings</string>
+    <string name="iccpiqamahtimings">ICC Iqamah/Congregation Timings</string>
+    <string name="icniqamahtimings">ICN Iqamah/Congregation Timings</string>
+    <string name="ifnlviqamahtimings">IFN Iqamah/Congregation Timings</string>
+    <string name="ifsvillaparkiqamahtimings">IFS Iqamah/Congregation Timings</string>
+    <string name="iieeiqamahtimings">IIE Iqamah/Congregation Timings</string>
+    <string name="mccciqamahtimings">MCC Iqamah/Congregation Timings</string>
+    <string name="mecmiqamahtimings">MEC Iqamah/Congregation Timings</string>
+    <string name="msiiqamahtimings">MSI Iqamah/Congregation Timings</string>
+    <string name="alislambbphone">630-972-0701</string>
+    <string name="alislambbaddress">560 E. North Frontage Road \n Bolingbrook, IL 60440</string>
+    <string name="alislambbiqamahtimings">Al-Islam Iqamah/Congregation Timings</string>
+    <string name="mfbridgeviewphone">708-430-5235</string>
+    <string name="mfbridgeviewaddress">7360 W. 93rd St. \n Bridgeview, IL 60455</string>
+    <string name="mfbridgeviewiqamahtimings">MF Iqamah/Congregationg Timings</string>
+    <string name="imsak">Sahur Ends (Imsak Time)</string>
+    <string name="hirawooddaleaddress">140 West Commercial Street \n Wood Dale, IL 60191</string>
+    <string name="hirawooddalephone">630-350-7860</string>
+    <string name="darussalamaddress">21W525 North Ave \n Lombard, IL 60148</string>
+    <string name="darussalamphone">630-360-2373</string>
+    <string name="hirawdiqamahtimings">Al-Hira Iqamah/Congregation Timings</string>
+    <string name="darussalamiqamahtimings">DarusSalam Iqamah Timings</string>
+    <string name="search">Search Masjid or Scroll Down</string>
+    <string name="uthmanaddress">55 W 22nd Street, #110 \n Lombard, IL 60148</string>
+    <string name="uthmanphone">Not Available</string>
+    <string name="uthmaniqamahtimings">Masjid Uthman Iqamah Timings</string>
+    <string name="noprayertimingsavailable">No new congregation timings available from this Masjid yet.  Please Check back later.  In sha Allah, it will be updated as we receive it.</string>
+    <string name="ok">Ok</string>
+
+</resources>

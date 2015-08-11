@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="10dp"
+    android:text="@string/noprayertimingsavailable"
+    android:textSize="20sp"
+    android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/dismissDialog"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="-30dp"
+        android:clickable="true"
+        android:fontFamily="sans-serif-condensed"
+        android:onClick="TurnOnBlueTooth"
+        android:text="@string/ok"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+     
+</LinearLayout>
